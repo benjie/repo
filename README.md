@@ -1,2 +1,2 @@
 # repo
-A repository
+A dummy repository
